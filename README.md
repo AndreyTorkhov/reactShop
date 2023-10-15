@@ -1,3 +1,3 @@
 # reactShop
 
-[Demo] (httos://AndreyTorkhov.github.io/reactShop)
+[Demo] (https://AndreyTorkhov.github.io/reactShop)
